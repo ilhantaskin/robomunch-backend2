@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ilhantaskin/robomunch-backend2/compare/v1.0.0...v1.0.1) (2026-06-07)
+
+
+### Bug Fixes
+
+* update cloud backend deployment and logging ([333eb54](https://github.com/ilhantaskin/robomunch-backend2/commit/333eb547b9afbabc281e6bdc10e435fbc50422a2))
+
 # 1.0.0 (2026-06-07)
 
 
